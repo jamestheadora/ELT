@@ -1,4 +1,4 @@
-# bootcamp_project_2
+# Extract, Transform, and Load
 
 ## Table of Contents
 1. [Background](#background)
@@ -70,7 +70,7 @@ The ETL process was accomplished using pandas and sqlalchemy in a jupyter notebo
 * Wesley Watkins
 * Anthony Ndungu
 * Theadora James
-* Beverly Phillips - Scout
+* Beverly Phillips
 * Sidney Henry
 * Di Gibson
 * Elsa Hernandez
